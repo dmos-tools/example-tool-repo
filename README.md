@@ -22,7 +22,7 @@ This tool uses the following Python libraries, which can be installed using Pip:
 
 ### Tool script
 
-To run the tool, use the folowing:
+To run the tool, use the following:
 
 ```
 from plotologic import makeplot
