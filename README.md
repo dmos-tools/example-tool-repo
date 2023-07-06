@@ -34,7 +34,7 @@ plt.savefig('outputs/output.png')
 ```
 
 ### Parameters
-The tool requires three parameters, wh
+The tool requires three parameters:
   - slope: a decimal that determines the steepness of the line.
   - intercept: a decimal that determines where the line crosses the y-axis.
   - title: a string that is placed at the top of the plot.
