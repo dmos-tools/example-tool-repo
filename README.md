@@ -1,6 +1,6 @@
 # Example tool
 
-This is an example repository for onboarding a tool to [Ontologic](run.ontologic.ly). It contains a Python script (plotologic) with a simple function that plots a line and saves the resulting figure as an image.
+This is an example repository for onboarding a tool to [Ontologic](https://run.ontologic.ly). It contains a Python script (plotologic) with a simple function that plots a line and saves the resulting figure as an image.
 
 ## Setting dependencies
 ### Base environment
